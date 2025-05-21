@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc0c81660a4684cc980176333b14ac79, type: 3}
+  m_Name: MasterData
+  m_EditorClassIdentifier: 
+  ItemDatas:
+  - ItemName: "\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8"
+    Point: 100
+    Sprite: {fileID: -5873103412776709921, guid: cd5bb1442094345c78f3a7e1c6cf4f31, type: 3}
+    ExplainText: "\u4E16\u754C\u3067\u3082\u6709\u540D\u306A\u30D6\u30E9\u30F3\u30C9\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u3060"
+  - ItemName: "\u30B2\u30FC\u30E0\u6A5F"
+    Point: 500
+    Sprite: {fileID: 21300000, guid: 47545e4beb7214a2b9fc2bc1b287cc28, type: 3}
+    ExplainText: "\u6700\u8FD1\u767A\u58F2\u3055\u308C\u305F\u30B2\u30FC\u30E0\u6A5F\uFF01\u3044\u307E\u3060\u306B\u62BD\u9078\u8CA9\u58F2\u3067\u3057\u304B\u8CB7\u3046\u3053\u3068\u304C\u3067\u304D\u306A\u3044"
+  - ItemName: "\u6C34"
+    Point: 10
+    Sprite: {fileID: -6957534545687722616, guid: 825dbe613839c4012b976b8dba3f5ba2, type: 3}
+    ExplainText: "\u306A\u3093\u306E\u5909\u54F2\u3082\u306A\u3044\uFF0C\u305F\u3060\u306E\u6C34\u9053\u6C34\u3060"
